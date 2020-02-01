@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:weightSum="3"
+        android:orientation="horizontal"
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_weight="3"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/radio_english_lng"
+                    android:drawablePadding="12dp"
+                    android:drawableEnd="@drawable/english_flag"
+                    android:paddingEnd="12dp"
+                    android:paddingStart="12dp"
+
+                    android:textSize="18sp"
+                    android:text="@string/English_string"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/radio_kurdish_lng"
+                    android:drawablePadding="29dp"
+                    android:drawableEnd="@drawable/kurdish_flag"
+                    android:paddingEnd="12dp"
+                    android:paddingStart="12dp"
+
+                    android:textSize="18sp"
+                    android:text="@string/kurdish_string"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/radio_arabic_lng"
+
+                    android:drawablePadding="36dp"
+                    android:drawableEnd="@drawable/arabic_flag"
+                    android:paddingEnd="12dp"
+                    android:paddingStart="12dp"
+
+                    android:textSize="18sp"
+                    android:text="@string/Arabic_string"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

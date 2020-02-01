@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_language">language</string>
+    <string name="menu_update_profile">Update Information</string>
+
+    <string name="menu_invite_friend">Invite friend</string>
+    <string name="menu_message">Messages</string>
+    <string name="menu_log_out">Log out</string>
+    <string name="menu_points">My points</string>
+
+    <string name="permission_request_string">Please check permission</string>
+    <string name="marker_title">Me</string>
+    <string name="you_string">You</string>
+    <string name="danger_string">entered dangerous area</string>
+    <string name="leaved_danger_area_string">leaved danger area</string>
+    <string name="move_with_in_string">move with in dangerous area</string>
+    <string name="confirm_title">Are you sure?</string>
+    <string name="dialog_msg">A new camera will be added to this location are you sure you want to proceed</string>
+    <string name="dialog_posative_string">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="waiting_string">Please wait....</string>
+    <string name="name_string">Name</string>
+    <string name="update_info_msg_string">Please fill all the information</string>
+    <string name="update_info_string">UPDATE INFORMATION</string>
+    <string name="img_request_string">Select image</string>
+    <string name="upload_string">UPLOADING....</string>
+    <string name="uploaded_string">UPLOADED</string>
+    <string name="uploaded_error_string">UPLOADED ERROR....!</string>
+    <string name="update_string">Update</string>
+    <string name="information_updated_string">Information updated</string>
+    <string name="information_updated_error_string">Information update error</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="phone_string">Phone</string>
+    <string name="leave_area">Leave area</string>
+
+    <string name="plan_title">SUBSCRIBE</string>
+    <string name="plan_msg">To continue using app subscribe to 1 year plan....</string>
+
+    //bottom sheet
+    <string name="warning_title">Warning!!!</string>
+    <string name="rule_one">Please while driving don\'t check your phone we will notify you when you enter camera area !</string>
+    <string name="rule_two">Please be aware when you add a new camera, check if any camera near that location was put or not!</string>
+    <string name="rule_three">Don\'t try to use the app in a way that don\'t go with our policy or we will band you!!</string>
+
+    //langauge
+    <string name="choose_language_string">Select language</string>
+    <string name="kurdish_string">كوردی</string>
+    <string name="Arabic_string">عربی</string>
+    <string name="English_string">English</string>
+
+    <string name="new_camera">کامیرا جدیدە</string>
+    <string name="string_ok">تمام</string>
+
+    <string name="invite_string"> \nInvited you to use early version of recore speed cam \n https://drive.google.com/open?id=1J5ZegwgH_KrKZeTnfPfizlKWd7lW4fzT</string>
+
+    <string name="logout">Logout</string>
+    <string name="gift_shop">Gift shop</string>
+
+
+    <string name="ad_message">to continue using the app please watch an ad</string>
+
+    <string name="feedback">feedback</string>
+    <string name="feedback_heading">(☞ﾟヮﾟ)☞ FEEDBACK</string>
+    <string name="feedback_subtitle">We are more than happy to get your feedback</string>
+    <string name="feedback_hint">write your feedback here</string>
+    <string name="feedback_btn_send">SEND</string>
+    <string name="feedback_btn_cancel">CANCEL</string>
+    <string name="feedback_toast">Please write something</string>
+</resources>

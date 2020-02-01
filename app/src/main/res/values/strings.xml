@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">SPCAM</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_language">language</string>
+    <string name="menu_update_profile">Update Information</string>
+
+    <string name="menu_invite_friend">Invite friend</string>
+    <string name="menu_message">Messages</string>
+    <string name="menu_log_out">Log out</string>
+    <string name="menu_points">My points</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="permission_request_string">Please check permissions</string> <!---->
+    <string name="marker_title">Me</string>
+    <string name="you_string">You</string>
+    <string name="danger_string">Entered dangerous area</string> <!---->
+    <string name="leaved_danger_area_string">left controlled area</string> <!---->
+    <string name="move_with_in_string">move with in dangerous area</string> <!---->
+    <string name="confirm_title">Do you want to add a camera to this location?</string>   <!---->
+    <string name="dialog_msg">remove this NOWOWWQ</string> <!---->
+    <string name="dialog_posative_string">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="waiting_string">Please wait....</string>
+    <string name="name_string">Name</string>
+    <string name="update_info_msg_string">Please enter your name...</string> <!---->
+    <string name="update_info_string">UPDATE INFORMATION</string>
+    <string name="img_request_string">Select image</string>
+    <string name="upload_string">UPDATING....</string> <!---->
+    <string name="uploaded_string">UPDATE</string> <!---->
+    <string name="uploaded_error_string">ERROR....!</string> <!---->
+    <string name="update_string">Update</string>
+    <string name="information_updated_string">Information updated</string>
+    <string name="information_updated_error_string">Connection error</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="phone_string">Phone</string>
+
+    <string name="leave_area">Leave area</string>
+    <string name="leave_first_msg">Please leave the controlled area</string> <!---->
+
+    //plan
+    <string name="plan_title">SUBSCRIBE</string>
+    <string name="plan_msg">To continue using this app subscribe for the 1 year plan....</string> <!---->
+    //bottom sheet
+    <string name="warning_title">Warning!!!</string>
+    <string name="rule_one">Don\'t check your phone while driving, The app will notify you when you enter controlled zone!</string> <!---->
+    <string name="rule_two">Please don\'t add a new camera close to another camera!</string> <!---->
+    <string name="rule_three">We are not responsible for any damage that may happen while using this app!!</string> <!---->
+    //langauge
+    <string name="choose_language_string">Select language</string>
+    <string name="kurdish_string">كوردی</string>
+    <string name="Arabic_string">عربی</string>
+    <string name="English_string">English</string>
+    <string name="new_camera">New camera</string>
+    <string name="string_ok">OK</string>
+
+    <string name="invite_string"> \nInvited you to use an early version of Recore speed cam \n https://drive.google.com/open?id=1J5ZegwgH_KrKZeTnfPfizlKWd7lW4fzT</string> <!---->
+
+    <string name="logout">Logout</string>
+
+    <string name="gift_shop">Gift shop</string>
+
+    <string name="ad_message">to continue using the app please watch an ad</string>
+
+    <string name="no_phone">Please enter your phone number</string>
+    <string name="invalid_phone">Invalid phone number</string>
+
+    <string name="phone_number_format">phone number should be in the following or similar format: 07701234567</string>
+
+    <string name="feedback">feedback</string>
+    <string name="feedback_heading">(☞ﾟヮﾟ)☞ FEEDBACK</string>
+    <string name="feedback_subtitle">We are more than happy to get your feedback</string>
+    <string name="feedback_hint">write your feedback here</string>
+    <string name="feedback_btn_send">SEND</string>
+    <string name="feedback_btn_cancel">CANCEL</string>
+    <string name="feedback_toast">Please write something</string>
+
+    <string name="background_task">Background update</string>
+
+
+</resources>

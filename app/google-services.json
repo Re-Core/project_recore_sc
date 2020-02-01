@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836289207820",
+    "firebase_url": "https://recore-cam.firebaseio.com",
+    "project_id": "recore-cam",
+    "storage_bucket": "recore-cam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836289207820:android:fd50a89dbda1cfab",
+        "android_client_info": {
+          "package_name": "com.recore.projectrecoresc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836289207820-ed047lu5e4ch7hgige811hd31fdjm173.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recore.projectrecoresc",
+            "certificate_hash": "7e916122e39ffccf2f42455a857bfcff187641c9"
+          }
+        },
+        {
+          "client_id": "836289207820-kmje9jebi9j1evh1milrcmqbn3llcomm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv6wLWm_t5ABZdRZQtmh5FHySA5eBmW28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836289207820-kmje9jebi9j1evh1milrcmqbn3llcomm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

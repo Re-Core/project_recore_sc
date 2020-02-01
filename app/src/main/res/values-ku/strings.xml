@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_language">زمان</string>
+    <string name="menu_update_profile">نوێکردنەوەی زانیاری</string>
+
+    <string name="menu_invite_friend">بانگەشتکردنی هاوڕێ</string>
+    <string name="menu_message">نامەکان</string>
+    <string name="menu_log_out">چوونەدەرەوە</string>
+    <string name="menu_points">خاڵەکانم</string>
+
+    <string name="permission_request_string">Please check permission</string>
+    <string name="marker_title">من</string>
+    <string name="you_string">ئاگاداربە</string>
+    <string name="danger_string">داخلی ناوچەی کۆنترۆلکراو بە کامێرا بویت </string>
+    <string name="leaved_danger_area_string">ناوچەی کۆنترۆلکراو بە کامێرات جی هێشت</string>
+    <string name="move_with_in_string">لە ناوچەی کۆنترۆلکراو بە کامرادا دەجوڵییت</string>
+    <string name="confirm_title">تۆدڵنیای لە دانانی کامرایەکی نوێ؟</string>
+    <string name="dialog_msg">کامێرەیەکی نوێ لەم ناوچەیە دادەنێیت دلنیای لە بەردەوامبونت؟</string><!---->
+    <string name="dialog_posative_string">بەڵی</string>
+    <string name="dialog_negative">نەخێر</string>
+    <string name="waiting_string">تکایە چاوەروانبە....</string>
+    <string name="name_string">ناو</string>
+    <string name="update_info_msg_string">هەموو زانیاریەکان داخل بکە</string>
+    <string name="update_info_string">نوێکردنەوەی زانیاری</string>
+    <string name="img_request_string">وێنەیەک هەلبژیرە</string>
+    <string name="upload_string">نوێکردنەوە</string>
+    <string name="uploaded_string">زانیاریەکانت نوێ کردەوە</string>
+    <string name="uploaded_error_string">UPLOADED ERROR....!</string>
+    <string name="update_string">نوێکردنەوە</string>
+    <string name="information_updated_string">زانیاریەکان بە سەرکەوتووی نوێ بوەوە</string>
+    <string name="information_updated_error_string">Information update error</string>
+    <string name="cancel_string">لابردن</string>
+    <string name="phone_string">ژمارە</string>
+    <string name="leave_area">ناوچەکە بەجێ بهێڵە</string>
+
+    <string name="plan_title">بەشداریکردن</string>
+    <string name="plan_msg">بۆ بەردەوامبوون لە بەکارهێنانی بەرنامەکە بەشداری پلانی ١ ساڵە بکە....</string>
+
+    //bottom sheet
+    <string name="warning_title">Warning!!!</string>
+    <string name="rule_one">تکایە لە کاتی شۆفێریدا ئاگاداری ڕێگاکەت بە، ئێمە ئاگادارت ئکەینەوە لە کاتی داغڵبونی ناوچەی کامێرا</string>
+    <string name="rule_two">تکایە لە کاتی زیادکردنی کامێرادا دڵنیا بەرەوە کە کامێرایەک لە نزیکەوە دانەنراوە !</string>
+    <string name="rule_three">تکایە هەوڵ مەدە بەرنامەەکە بە شیەوەی نەشیاو بەکار بێنیت، بە پێچەوانەوە توشیی لێ پێچینەوە دەبیت، ئێمە بەرپرس نین لە هەر جۆرە زیانێک !</string>
+
+    <string name="invite_string"> \nInvited you to use early version of recore speed cam \n https://drive.google.com/open?id=1J5ZegwgH_KrKZeTnfPfizlKWd7lW4fzT</string>
+
+
+    //langauge
+    <string name="choose_language_string">Select language</string>
+    <string name="kurdish_string">كوردی</string>
+    <string name="Arabic_string">عربی</string>
+    <string name="English_string">English</string>
+    <string name="new_camera">کامێەرەی نوێ</string>
+    <string name="string_ok">تەواو</string>
+
+    <string name="logout">چوونە دەرەوە</string>
+    <string name="gift_shop">Gift shop</string>
+
+    <string name="no_phone">تکایە ژمارە تەلەفونەکەت داغڵ بکە!</string>
+    <string name="invalid_phone">ژمارەکە هەڵەیە !</string>
+
+    <string name="ad_message">بۆ بەردەوامبوون لە بەکارهێنانی ئاپەکەمان تکایە تەماشای ڕیکلامێک بکە</string>
+
+    <string name="feedback">ڕای تۆ</string>
+    <string name="feedback_heading">(☞ﾟヮﾟ)☞ ڕای تۆ</string>
+    <string name="feedback_subtitle">  زۆر پێخۆشحاڵ دەبین بە زانینی ڕەخنەکانت</string>
+    <string name="feedback_hint">راو ڕەخنەی خۆت لێرەدا بنوسە</string>
+    <string name="feedback_btn_send">ناردن</string>
+    <string name="feedback_btn_cancel">پاشگەزبوونەوە</string>
+    <string name="feedback_toast">تکایە شتێک بنووسە</string>
+
+    <string name="background_task">ئاگادارکردنەوە لە باگراوەندا</string>
+
+</resources>
